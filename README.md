@@ -47,6 +47,8 @@
 ## 4.开发React Native 的开发工具
   
   我做android的，所以我建议使用WebStorm，因为它和android studio 风格是一致的。
-  
-  
+  
+## 5.使用facebook的react_native的exmaples的这些东西
+
+ 
   
